@@ -26,7 +26,7 @@ const projectsData = [
     title: "Portfolio Webiste",
     description:
       "Portfolio Website is a personal showcase designed to highlight my skills, projects, and professional journey.",
-    url: "https://buildkhalafat.com",
+    url: "https://github.com/Prasanna106-Allu/Portfolio",
     category: "frontend",
   },
   
