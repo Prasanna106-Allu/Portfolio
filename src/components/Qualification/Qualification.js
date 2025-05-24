@@ -106,7 +106,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Full Stack .NET  Developer</h3>
                 <span className="qualification__subtitle">TATA CONSULTANCY SERVICES</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt" /> 2021 - 2023
+                  <i className="uil uil-calendar-alt" /> 2020 - 2023
                 </div>
                 <div class="qualification__data__theory" >
                 <ol>
